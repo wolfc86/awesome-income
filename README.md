@@ -7,7 +7,7 @@ List of income strategies
 
 Takes work to set up. But once you are done, there is minimal to no upkeep.
 
-- Ebooks
+- Ebooks/Paperbacks (Amazon KDP)
 - Audiobooks
 - Courses
 - Podcasts
@@ -17,8 +17,7 @@ Takes work to set up. But once you are done, there is minimal to no upkeep.
 - Digital stationary (via greenvelope, minted, etc)
 - YouTube videos (with advertisements)
 - Templates (ex: Wordpress templates)
-- Android apps made using no coding sites???
-- Amazon low content kdp books???
+- Apps ([Adalo?](https://www.adalo.com/))
 - Music royalties
 - Automated e-commerce
 
@@ -39,7 +38,7 @@ Requires some level of engagement, even if it's at least partially passive.
 - Affiliate marketing
 - Amazon FBA
 - P2P Lending ([r/borrow](https://www.reddit.com/r/borrow/new/))
-- Hard money lending
+- [Hard money loans](https://en.wikipedia.org/wiki/Hard_money_loan)
 - Blog
 - Patreon
 - Airbnb
@@ -47,8 +46,10 @@ Requires some level of engagement, even if it's at least partially passive.
 - OnlyFans
 - Dropshipping
 - dog sitting / dog walking
-- Writing for medium and newsbreak - Use content from expired domains and wayback machine. Copy / paste. Yaay. Semi Passive.
-- Quora partner program. Signing up Class action lawsuits.
+- Writing for medium and newsbreak
+  - (Find expired domains with good content, recover from Wayback Machine.)
+- Quora partner program. 
+- Signing up Class action lawsuits.
 
 ## Passive Income
 
