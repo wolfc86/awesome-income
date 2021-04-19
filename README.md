@@ -26,6 +26,7 @@ Takes work to set up. But once you are done, there is minimal to no upkeep.
 Requires some level of engagement, even if it's at least partially passive.
 
 - Rental property (whole unit, spare bedroom, etc.)
+- Holiday home rental
 - Rent fashion accessories (watches, handbags, etc.)
 - Personal possession storage units
 - Paid parking lot (or driveway in big cities)
@@ -42,7 +43,7 @@ Requires some level of engagement, even if it's at least partially passive.
 - Blog
 - Patreon
 - Airbnb
-- Uber/Lyft, Limousine
+- Uber/Lyft/Taxi, Limousine
 - OnlyFans
 - Dropshipping
 - dog sitting / dog walking
@@ -55,7 +56,9 @@ Requires some level of engagement, even if it's at least partially passive.
 
 Minimal set up and no upkeep necessary
 
-- Stock/ETF
+- Stock/ETF/Bonds
+- High-Yield Savings accounts
+- Dividend stocks
 - Covered calls
 - Ads on blog/website.
 - Internet Sharing [Read](https://vocal.media/lifehack/how-to-turn-your-computer-into-a-passive-income-machine)
