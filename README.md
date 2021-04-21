@@ -21,7 +21,9 @@ Requires continual participation in the activity (can't be delegated. no downtim
 - Tech support
   - [Puls](https://puls.com/join)
   - [Hello tech](https://www.hellotech.com/)
-- dog sitting / dog walking
+- Pet care
+  - Cat/Dog/etc. sitting
+  - Dog walking
 - Dropshipping
 - Bookkeeping
   - [Bookminders](https://bookminders.com/)
