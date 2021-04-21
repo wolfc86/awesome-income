@@ -144,15 +144,18 @@ Requires participation, but _can_ be partially passive (can eventually be delega
   - Watches
   - Handbags
 - Personal possession storage units
-- Equipment rentals
-  - Tools (power tools, etc.)
+- Equipment rentals (returned in future)
+  - Tools (power tools, likes Home Depot)
+  - Appliances (fridge, washer/dryer, like Aarons) 
   - Machinery (wood chipper, bulldozer, etc.)
   - Furniture (staging for realty companies)
   - Workout (treadmill, weights, etc.)
-- Activity rentals
+- Activity rentals (returned same day)
+  - Bikes
   - Boats
   - Jet skis
   - Golf karts
+  - Segways
 - Vending machines
 - Landromat
 - Affiliate marketing
